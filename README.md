@@ -1,7 +1,5 @@
 <h1 align="center"> Astromatch </h1>
 
-> Status do Projeto: Concluído :heavy_check_mark:
-
 > Status do Projeto: Em desenvolvimento :warning:
 
 ## Descrição do Projeto
@@ -19,7 +17,7 @@
 
 ## Deploy da Aplicação com React
 
-> https://certificates-for-everyone-womakerscode.netlify.ap
+> https://five-sleep.surge.sh
 
 ## Instruções para rodar
 
